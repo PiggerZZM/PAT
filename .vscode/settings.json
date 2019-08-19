@@ -38,6 +38,7 @@
         "xutility": "cpp",
         "vector": "cpp",
         "xtree": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "algorithm": "cpp"
     }
 }
